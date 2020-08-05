@@ -16,10 +16,9 @@ import os
 from datetime import datetime, date
 
 
-client_id= "99b86d2bfe254365903f0c334fb2cf03"
-client_secret = "1294d3c8eecb4611944644862b88b992"
-playlist_id = '1yWwzdy5cmvRQJC07qu5PQ' # Spotify playlist id
-username = "joanna_khek"
+client_id= "CLIENT ID HERE"
+client_secret = "CLIENT SECRET HERE"
+username = "USERNAME HERE"
 redirect_uri = "http://localhost:7777/callback/"
 
 os.environ["SPOTIPY_CLIENT_ID"] = client_id
