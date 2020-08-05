@@ -24,8 +24,8 @@ from urllib.error import HTTPError
 from urllib.request import urlopen
 
 
-client_id= "99b86d2bfe254365903f0c334fb2cf03"
-client_secret = "1294d3c8eecb4611944644862b88b992"
+client_id= "CLIENT ID HERE"
+client_secret = "CLIENT SECRET HERE"
 redirect_uri = "http://localhost:7777/callback/"
 username = ""
     
