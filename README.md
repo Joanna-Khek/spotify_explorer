@@ -5,3 +5,5 @@ Dash App: https://joanna-spotify-explorer.herokuapp.com/
 I have been using Spotify for a long time and wanted to gain some insights on the type of music i frequently listen to. 
 This web app allows me explore the top artists, tracks as well as audio features i've been listening to.
 
+## Top Tracks
+![Image](/images/Artists.PNG)
