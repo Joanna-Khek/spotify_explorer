@@ -12,4 +12,4 @@ This web app allows me explore the top artists, tracks as well as audio features
 ![Image](/images/Tracks.PNG)
 
 ## Top Track Details
-![Image](/images/Track Details.PNG)
+![Image](/images/Track_Details.PNG)
